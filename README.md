@@ -39,3 +39,25 @@ const router = createBrowserRouter([
     )
   }
 ]);
+
+## Running the Demo
+
+To see this component in action locally, follow these steps:
+
+1.  Clone the repository:
+    ```bash
+    git clone [https://github.com/lokiwilded/react-protected-route-component.git](https://github.com/lokiwilded/react-protected-route-component.git)
+    ```
+2.  Navigate into the directory:
+    ```bash
+    cd react-protected-route-component
+    ```
+3.  Install the dependencies:
+    ```bash
+    npm install
+    ```
+4.  Run the development server:
+    ```bash
+    npm run dev
+    ```
+This will open a demo in your browser where you can test the login/logout functionality and the protected route.
